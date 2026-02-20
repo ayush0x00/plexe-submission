@@ -1,0 +1,13 @@
+.git
+.mplcache
+__pycache__
+*.pyc
+*.pyo
+.pytest_cache
+.env
+*.md
+!README.md
+data/
+notebooks/
+ai_chat_logs/
+*.pdf
